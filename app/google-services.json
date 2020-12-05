@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461065304527",
+    "firebase_url": "https://fir-calc-67242.firebaseio.com",
+    "project_id": "fir-calc-67242",
+    "storage_bucket": "fir-calc-67242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461065304527:android:414237ba5e237df8597aba",
+        "android_client_info": {
+          "package_name": "com.example.firebasecalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461065304527-aajqc5qie02au0jk0vjjt33ovirf1on3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecalc",
+            "certificate_hash": "a03868d9dd52b73b1970b0185cfc76c42d3e428d"
+          }
+        },
+        {
+          "client_id": "461065304527-368vtf4aunru5rofkgd8l5cu51cs5ofs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN76arRc8jgQL2_Dq96f2FDxNJTzrPK7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461065304527-368vtf4aunru5rofkgd8l5cu51cs5ofs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
